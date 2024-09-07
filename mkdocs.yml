@@ -1,3 +1,6 @@
 site_name: My Docs
 theme:
   name: material
+plugins:
+  - mkdocs-video:
+      video_autoplay: false
