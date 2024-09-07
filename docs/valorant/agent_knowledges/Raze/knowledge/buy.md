@@ -1,0 +1,11 @@
+#買い物
+##攻め
+###Pistol
+###Eco
+###Semi
+###Full
+##守り
+###Pistol
+###Eco
+###Semi
+###Full
